@@ -1,6 +1,6 @@
 # tic_tac_toe_AI_game
 Franklin Neves
-Kevin
+Kevin Tran
 Valerie Benedit
 
 This code uses a typical 3 by 3 tic-tac-toe board game. Each square is represented by a number in between 1-9. The first row are the numbers 1-3, the second row are 4-6, lastly 7-9.  We used a winner board that illustrates the different combinations that determine a win. This winner board is used to check. 
